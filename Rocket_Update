@@ -1,13 +1,13 @@
 {
   "showDialog": true,
   "appVersionCode": 999999999,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.
+  "messageText": "برجاء تحميل التحديث الجديد للتطبيق للاستماع بالمميزات والتحسينات الجديدة .
   حمل التحديث من قناة مستر كيان",
-  "updateButtonText": "Update",
+  "updateButtonText": "تحديث الان",
   "updateButtonLink": "https://t.me/mr_kiyan",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
+  "cancelButtonText": "الغاء",
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#1E88E5",
   "cancelButtonGradientEndColor": "#64B5F6",
